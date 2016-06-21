@@ -1,0 +1,20 @@
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 42px;
+  color: red;
+}
+
+h2 {
+  font-size: 25px;
+  color: hotpink;
+  font-style: italic;
+}
+
+ul.joe {
+  list-style: none;
+}
+
+h3.joe, h3.date 
